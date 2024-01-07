@@ -25,7 +25,7 @@ export default function Price({ handleChange }) {
       />
       <Input
         handleChange={handleChange}
-        value={100}
+        value={150}
         title="$100-$150"
         name="test2"
       />
