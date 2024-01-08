@@ -181,11 +181,11 @@ const data = [
     newPrice: "100",
     company: "Vans",
     color: "red",
-    category: "flats",
+    category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71gpFHJlnoL._AC_UX575_.jpg",
-    title: "Low-Top Trainers",
+    img: "https://m.media-amazon.com/images/I/61QMaY5G6BL._AC_UL320_.jpg",
+    title: "Vans Slide-On Casual Sandals",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -195,8 +195,8 @@ const data = [
     category: "sandals",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71pf7VFs9CL._AC_UX575_.jpg",
-    title: "Vans Unisex Low-Top",
+    img: "https://m.media-amazon.com/images/I/610RRIgjf6L._AC_UL320_.jpg",
+    title: "Vans Malta Sandal",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -206,8 +206,8 @@ const data = [
     category: "sandals",
   },
   {
-    img: "https://m.media-amazon.com/images/I/61N4GyWcHPL._AC_UY575_.jpg",
-    title: "Classic Bandana Sneakers",
+    img: "https://m.media-amazon.com/images/I/61BJlbgogGL._AC_UL320_.jpg",
+    title: "Vans M LA Costa Slide ON",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -314,7 +314,7 @@ const data = [
     newPrice: "50",
     company: "Adidas",
     color: "black",
-    category: "flats",
+    category: "heels",
   },
 ];
 
