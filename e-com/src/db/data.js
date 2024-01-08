@@ -162,7 +162,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
+    img: "https://m.media-amazon.com/images/I/819Z1jD6uLS._AC_SX395_.jpg",
     title: "Fusion Evo Golf Shoe",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",

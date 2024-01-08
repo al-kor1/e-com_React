@@ -44,7 +44,8 @@ function App() {
           category === selected ||
           company === selected ||
           color === selected ||
-          title === selected
+          title === selected||
+          newPrice === selected
       );
     }
     return filteredProducts.map(({ img, title, star, reviews, prevPrice, newPrice }) => (
