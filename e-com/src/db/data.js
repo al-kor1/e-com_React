@@ -13,8 +13,8 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
-    title: "Nike Air Vapormax Plus",
+    img: "https://m.media-amazon.com/images/I/614tc3MXSML._AC_UL320_.jpg",
+    title: "Nike mens Air Force 1",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
